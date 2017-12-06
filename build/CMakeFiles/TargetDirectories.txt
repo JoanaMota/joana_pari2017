@@ -1,0 +1,4 @@
+/home/joana/Desktop/PARI/Aula12/git/joana_pari2017/build/CMakeFiles/rebuild_cache.dir
+/home/joana/Desktop/PARI/Aula12/git/joana_pari2017/build/CMakeFiles/cpfiles.dir
+/home/joana/Desktop/PARI/Aula12/git/joana_pari2017/build/CMakeFiles/edit_cache.dir
+/home/joana/Desktop/PARI/Aula12/git/joana_pari2017/build/CMakeFiles/myf.dir
