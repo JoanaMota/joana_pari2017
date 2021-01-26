@@ -1,2 +1,2 @@
 # joana_pari2017
-For class number 12
+Project for Automation and Industrial Robotics, class number 12
